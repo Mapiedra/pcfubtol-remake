@@ -18,7 +18,7 @@ Se abrirá automáticamente: **http://localhost:3000**
 ## 3️⃣ Interactuar (2 minutos)
 
 ### En el navegador:
-1. **Pantalla inicial**: Verás "PC Futbol 7 Remake"
+1. **Pantalla inicial**: Verás "PC Futbol Remake"
 2. **Botón**: Click en "Nueva Partida"
 3. **Dashboard**: Verás tu equipo, temporada y presupuesto
 4. **Cambios en tiempo real**: Edita archivos en `src/` y verás cambios al instante
@@ -32,12 +32,12 @@ e:\Documentos\GitHub\pcfubtol-remake\src\screens\MainMenuScreen.js
 
 ### Cambia esto:
 ```javascript
-<h1>PC Futbol 7 Remake</h1>
+<h1>PC Futbol Remake</h1>
 ```
 
 ### Por esto:
 ```javascript
-<h1>¡Bienvenido a PC Futbol 7!</h1>
+<h1>¡Bienvenido a PC Futbol!</h1>
 ```
 
 **✅ Verás el cambio al instante en el navegador**

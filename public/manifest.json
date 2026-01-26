@@ -1,6 +1,6 @@
 {
-  "name": "PC Futbol 7 Remake",
-  "short_name": "PC Futbol 7",
+  "name": "PC Futbol Remake",
+  "short_name": "PC Futbol",
   "description": "Un juego de gestión de fútbol inspirado en el clásico PC Futbol 7",
   "start_url": "./index.html",
   "display": "standalone",
@@ -47,7 +47,9 @@
       "type": "image/png"
     }
   ],
-  "categories": ["games"],
+  "categories": [
+    "games"
+  ],
   "shortcuts": [
     {
       "name": "Nueva Partida",

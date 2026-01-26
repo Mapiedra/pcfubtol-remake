@@ -1,4 +1,4 @@
-🎯 PRÓXIMAS ACCIONES - PC FUTBOL 7 REMAKE
+🎯 PRÓXIMAS ACCIONES - PC FUTBOL REMAKE
 ════════════════════════════════════════════════════════════════
 
 ✅ COMPLETADO:

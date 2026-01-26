@@ -1,0 +1,12 @@
+{
+	"name": "LALIGA EA Sports",
+	"logo": "",
+	"trofeo": "",
+	"startDate": "",
+	"endDate": "",
+	"teams": {
+		"1": "id",
+		"2": "id",
+		....
+	}
+}

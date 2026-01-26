@@ -16,7 +16,7 @@ export function showWelcomeMessage() {
     margin-top: 10px;
   `
 
-  console.log('%c⚽ PC Futbol 7 Remake v0.1.0', styles)
+  console.log('%c⚽ PC Futbol Remake v0.1.0', styles)
   console.log('%cBienvenido al juego de gestión de fútbol moderno', infoStyles)
   console.log('')
   console.log('%c📚 Documentación', 'font-weight: bold; color: #2c3e50;')

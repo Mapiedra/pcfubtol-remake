@@ -1,4 +1,4 @@
-# PC Futbol 7 Remake ⚽🎮
+# PC Futbol Remake ⚽🎮
 
 Juego de gestión de fútbol inspirado en PC Fútbol 7 clásico. Remasterizado para 2024 como Progressive Web App.
 
@@ -254,5 +254,5 @@ Agradecimientos especiales a:
 ⭐ **¿Te gusta el proyecto? ¡Déjanos una estrella!**
 
 ```
-Made with ⚽🎮 by the PC Futbol 7 Remake team
+Made with ⚽🎮 by the PC Futbol Remake team
 ```

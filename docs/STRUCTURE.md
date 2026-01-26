@@ -1,4 +1,4 @@
-# Estructura del Proyecto - PC Futbol 7 Remake
+# Estructura del Proyecto - PC Futbol Remake
 
 ## Árbol de directorios
 

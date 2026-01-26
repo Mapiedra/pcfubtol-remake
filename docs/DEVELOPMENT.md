@@ -1,4 +1,4 @@
-# Guía de Desarrollo - PC Futbol 7 Remake
+# Guía de Desarrollo - PC Futbol Remake
 
 ## Inicio rápido
 

@@ -10,7 +10,7 @@ export function MainMenuScreen() {
   container.innerHTML = `
     <div class="menu-container">
       <div class="menu-header">
-        <h1>⚽ PC Futbol 7 Remake</h1>
+        <h1>⚽ PC Futbol Remake</h1>
         <p class="subtitle">Gestor de Fútbol Moderno</p>
         <p style="color: #10b981; font-size: 0.9rem; margin-top: 0.5rem;">✅ ¡Hola Mundo! Sistema funcionando correctamente</p>
       </div>
@@ -61,7 +61,7 @@ export function MainMenuScreen() {
 
   container.querySelector('#infoBtn').addEventListener('click', () => {
     alert(`
-🎮 PC Futbol 7 Remake v0.1.0
+🎮 PC Futbol Remake v0.1.0
 
 ¡Sistema completamente funcional!
 
